@@ -33,7 +33,7 @@ if _answer_ == ("UST Main"):
     print("Hmmmm, okay not a bad choice.")
     _answer_ = int(input("From 1 - 10, How much are you enjoying your school life right now? "))
     if _answer_ <= (6):
-        print("I hope you're doing fine and enjoy more of your time there!")
+        print("I hope you're doing fine and enjoy more of your time there! BLABLA")
     elif _answer_ <= (10):
         print("School just hits different bro.")
     else:
